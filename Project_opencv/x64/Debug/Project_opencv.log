@@ -1,7 +1,0 @@
-﻿  BaseHandler.cpp
-  ImgHandler.cpp
-  main.cpp
-  VideoCaptureHandler.cpp
-C:\Users\黄浩轩\source\repos\Project_opencv\VideoCaptureHandler.cpp(30,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  正在生成代码...
-  Project_opencv.vcxproj -> C:\Users\黄浩轩\source\repos\Project_opencv\x64\Debug\Project_opencv.exe

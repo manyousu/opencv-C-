@@ -1,8 +1,0 @@
-﻿  video player.cpp
-C:\Users\黄浩轩\source\repos\Project_opencv\video player.cpp(39,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-C:\Users\黄浩轩\source\repos\Project_opencv\video player.cpp(43,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  正在生成代码
-  Previous IPDB was built with incompatible compiler, fall back to full compilation.
-  All 172 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  已完成代码的生成
-  Project_opencv.vcxproj -> C:\Users\黄浩轩\source\repos\Project_opencv\x64\Release\Project_opencv.exe
